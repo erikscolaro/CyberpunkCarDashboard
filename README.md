@@ -10,10 +10,12 @@ The project leverages Rive, an innovative software that allows designers to crea
 
 Below is a demonstration of the Cyberpunk Car Dashboard in action:
 
-![Cyberpunk Dashboard Demo](Demo.mp4)
+![Cyberpunk Dashboard Demo](demo/Demo.mp4)
 
 ## Developer
 
 **Name:** Erik
+
 **Surname:** Scolaro 
+
 **Email:** erik.scolaro.dev@gmail.com
