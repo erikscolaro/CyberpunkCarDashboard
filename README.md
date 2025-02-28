@@ -10,7 +10,7 @@ The project leverages Rive, an innovative software that allows designers to crea
 
 Below is a demonstration of the Cyberpunk Car Dashboard in action:
 
-![Cyberpunk Dashboard Demo](demo/Demo.mp4)
+[![Futuristic Car Dashboard Inspired by Cyberpunk 2077](https://img.youtube.com/vi/Q3xp3p3QW5I/0.jpg)](https://www.youtube.com/watch?v=Q3xp3p3QW5I)
 
 ## Developer
 
